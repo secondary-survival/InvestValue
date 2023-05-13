@@ -1,11 +1,12 @@
 pageobjects\ui\HomePage\HomePageObjects.class
+data\DataProvider.class
+utils\Browser\Capability.class
 selenium\framework\Navigator.class
 selenium\framework\Clickable.class
 selenium\framework\KeyboardUtils.class
 base\AutomationBase.class
 pageobjects\common\object\CommonObjects.class
 selenium\framework\BasicLoadable.class
-data\Provider.class
 utils\CommonUtils.class
 exceptions\other\exceptions\OtherExceptions.class
 selenium\components\Input.class
